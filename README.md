@@ -69,7 +69,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-andydev1.vercel.app/api?username=Andydev0&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-andydev1.vercel.app/api/top-langs/?username=Andydev0&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-one-xi-14.vercel.app/api?username=Andydev0&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats-one-xi-14.vercel.app/api/top-langs/?username=Andydev0&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&count_private=true&langs_count=8" />
 </div>
 
